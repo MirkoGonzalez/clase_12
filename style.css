@@ -36,14 +36,7 @@ section#contact header{
 	background:silver url('https://picsum.photos/id/1035/900/300') center center no-repeat;
 	background-size:cover;	
 }
-#portfolio{
-	min-height: 400vh;
-}
-@media screen and  (orientation: portrait) {
-	#portfolio{
-		min-height: 750vh;
-	}
-}
+
 
 :target:before {
 	content:"";
